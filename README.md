@@ -1,2 +1,2 @@
 # email-template-corporate
-email template corporate or Businesses
+email template html corporate or Businesses
